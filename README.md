@@ -12,18 +12,18 @@
 ## :computer: Technologies that I know
 
 <br>
-<p align="center">
+<p>
 <img src="./images/icons/JavaScript.png"/>
 <img src="./images/icons/cpp.png"/>
 <img src="./images/icons/c.png"/>
 </p>
-<p align="center">
+<p>
 <img src="./images/icons/react.png"/>
 <img src="./images/icons/mongo.png"/>
 <img src="./images/icons/express.png"/>
 <img src="./images/icons/node.png"/>
 </p>
-<p align="center">
+<p>
 <img src="./images/icons/firebase.png"/>
 <img src="./images/icons/tailwind.png"/>
 <img src="./images/icons/HTML.png"/>
