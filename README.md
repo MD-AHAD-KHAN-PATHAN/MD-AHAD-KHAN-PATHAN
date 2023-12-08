@@ -18,6 +18,13 @@
 </p>
 
 ## :mailbox: Reach me out
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
 [<img height="75" src="./images/icons/Linkedin.png">](https://www.linkedin.com/in/md-ahad-khan-pathan/)
 [<img height="75" src="./images/icons/Facebook.png">](https://www.facebook.com/mdpk.ahad)
 [<img height="75" src="./images/icons/Twitter.png">](https://www.linkedin.com/in/md-ahad-khan-pathan/)
