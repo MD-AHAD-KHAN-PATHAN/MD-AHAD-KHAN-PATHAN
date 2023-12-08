@@ -20,7 +20,7 @@
 ## :mailbox: Reach me out
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/md-ahad-khan-pathan/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
