@@ -42,11 +42,5 @@
 ## :trophy: GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=MD-AHAD-KHAN-PATHAN&theme=tokyonight"/>
 
-## :eyes: Current overview
- 
-### 👯 I’m looking - To collaborate on open-source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
-
 
 <br />
