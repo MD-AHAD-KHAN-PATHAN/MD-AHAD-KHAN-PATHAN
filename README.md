@@ -38,17 +38,13 @@
 <br />
 
 ## :chart_with_upwards_trend: Current Stats
+![MD-AHAD-KHAN-PATHAN's Stats](https://github-readme-stats.vercel.app/api?username=MD-AHAD-KHAN-PATHAN&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MD-AHAD-KHAN-PATHAN&theme=github_dark"/>
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MD-AHAD-KHAN-PATHAN&theme=github_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MD-AHAD-KHAN-PATHAN&theme=github_dark"/>
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MD-AHAD-KHAN-PATHAN&theme=github_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-AHAD-KHAN-PATHAN&theme=github_dark&utcOffset=8"/>
-
-
-<img src="https://api.githubtrends.io/user/svg/MD-AHAD-KHAN-PATHAN/langs?time_range=one_year&theme=dark"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-AHAD-KHAN-PATHAN&theme=github_dark&utcOffset=8"/>
-[http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-AHAD-KHAN-PATHAN&theme=github_dark&utcOffset=8](https://api.githubtrends.io/user/svg/MD-AHAD-KHAN-PATHAN/langs?time_range=one_year&theme=dark)"
 
 
 
