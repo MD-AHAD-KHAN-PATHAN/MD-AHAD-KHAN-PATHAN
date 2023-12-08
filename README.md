@@ -39,7 +39,7 @@
 <img height="180" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-AHAD-KHAN-PATHAN&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
 <br />
 
-## GitHub Trophies
+## :trophy: GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=MD-AHAD-KHAN-PATHAN&theme=tokyonight"/>
 
 ## :eyes: Current overview
