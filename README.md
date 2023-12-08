@@ -17,24 +17,6 @@
   </a>
 </p>
 
-<br>
-<p>
-<img src="./images/icons/JavaScript.png"/>
-<img src="./images/icons/cpp.png"/>
-<img src="./images/icons/c.png"/>
-
-<img src="./images/icons/react.png"/>
-<img src="./images/icons/mongo.png"/>
-<img src="./images/icons/express.png"/>
-<img src="./images/icons/node.png"/>
-
-<img src="./images/icons/firebase.png"/>
-<img src="./images/icons/tailwind.png"/>
-<img src="./images/icons/HTML.png"/>
-<img src="./images/icons/css.png"/>
-</p>
-<br/>
-
 ## :mailbox: Reach me out
 [<img height="75" src="./images/icons/Linkedin.png">](https://www.linkedin.com/in/md-ahad-khan-pathan/)
 [<img height="75" src="./images/icons/Facebook.png">](https://www.facebook.com/mdpk.ahad)
