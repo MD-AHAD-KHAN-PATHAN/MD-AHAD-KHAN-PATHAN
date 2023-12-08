@@ -23,6 +23,9 @@
   <a href="https://www.linkedin.com/in/md-ahad-khan-pathan/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://www.linkedin.com/in/md-ahad-khan-pathan/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 [<img height="75" src="./images/icons/Linkedin.png">](https://www.linkedin.com/in/md-ahad-khan-pathan/)
