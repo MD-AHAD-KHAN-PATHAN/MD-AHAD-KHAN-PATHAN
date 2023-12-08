@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/md-ahad-khan-pathan/">
-<img src="./images/AHAD KHAN.mp4" />
+<img src="./images/Linkedin Cover.png" />
 </a>
 
 <br/>
