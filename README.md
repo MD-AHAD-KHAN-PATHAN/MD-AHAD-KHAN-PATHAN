@@ -26,6 +26,9 @@
   <a href="https://www.instagram.com/arulesbreaker/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  <a href="https://twitter.com/ahad_khab">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
 
 [<img height="75" src="./images/icons/Linkedin.png">](https://www.linkedin.com/in/md-ahad-khan-pathan/)
