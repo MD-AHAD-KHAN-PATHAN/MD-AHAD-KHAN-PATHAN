@@ -23,8 +23,8 @@
   <a href="https://www.linkedin.com/in/md-ahad-khan-pathan/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/md-ahad-khan-pathan/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.instagram.com/arulesbreaker/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
