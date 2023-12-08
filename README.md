@@ -31,8 +31,6 @@
   </a>
 </p>
 
-<br />
-
 ## :chart_with_upwards_trend: Current Stats
 
 
