@@ -11,7 +11,7 @@
 
 ## :computer: Technologies that I know
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,cpp,c,mongodb,express,react,nodejs,firebase,html,css,tailwind" />
   </a>
@@ -19,7 +19,7 @@
 
 ## :mailbox: Reach me out
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/md-ahad-khan-pathan/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
