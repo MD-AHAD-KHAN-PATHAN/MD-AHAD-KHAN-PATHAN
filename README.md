@@ -46,7 +46,7 @@
 ![MD-AHAD-KHAN-PATHAN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-AHAD-KHAN-PATHAN&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <img src="https://github-readme-stats.vercel.app/api?username=MD-AHAD-KHAN-PATHAN&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-AHAD-KHAN-PATHAN&theme=tokyonight&hide_border=true">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-AHAD-KHAN-PATHAN&theme=tokyonight&hide_border=true">
 
 <br />
 
