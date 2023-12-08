@@ -46,6 +46,8 @@
 
 ![MD-AHAD-KHAN-PATHAN's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MD-AHAD-KHAN-PATHAN&theme=tokyonight&hide_border=true)
 
+![MD-AHAD-KHAN-PATHAN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-AHAD-KHAN-PATHAN&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 <br />
 
