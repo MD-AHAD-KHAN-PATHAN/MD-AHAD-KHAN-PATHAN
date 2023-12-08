@@ -46,7 +46,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-AHAD-KHAN-PATHAN&theme=github_dark&utcOffset=8"/>
 
 
-<img src="https://api.githubtrends.io/user/svg/MD-AHAD-KHAN-PATHAN/langs?time_range=one_year&theme=dark"/> 
+<img src="https://api.githubtrends.io/user/svg/MD-AHAD-KHAN-PATHAN/langs?time_range=one_year&theme=dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-AHAD-KHAN-PATHAN&theme=github_dark&utcOffset=8"/>
 [http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-AHAD-KHAN-PATHAN&theme=github_dark&utcOffset=8](https://api.githubtrends.io/user/svg/MD-AHAD-KHAN-PATHAN/langs?time_range=one_year&theme=dark)"
 
 
