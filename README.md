@@ -101,3 +101,27 @@ Introducing a game-changing job-finding platform powered by MERN stack. Easily p
 </p>
 
 <br />
+
+<h2>AutoVerse</h2>
+<a href="https://fantastic-cassata-eb2a45.netlify.app/">Live Link</a>
+
+Unleash the thrill of luxury car ownership on my MERN stack supercar selling platform. Sellers list elite rides, while users curate their dream collection, adding favorite supercars to their personalized cart.
+
+- Firebase Authentication: Users can sign up, log in, and enjoy personalized experiences through Firebase authentication, ensuring their data is secure.
+
+- MongoDB Database: This project utilizes MongoDB as a NoSQL database to store and manage data such as car details, user profiles, and cart information.
+
+- Express.js Server: For server-side functionality, Express.js is employed to create APIs for adding, updating, and deleting car details, as well as handling user interactions.
+
+- Car Details Management: Users can view and explore detailed information about the supercars, including specifications, images, and pricing.
+
+- Cart Functionality: My project incorporates a shopping cart feature, allowing users to add, update, and remove supercars from their cart, creating a seamless and user-friendly Buy experience.
+
+## Technology
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,firebase,tailwind,vite,netlify,vercel" />
+  </a>
+</p>
+
+<br />
