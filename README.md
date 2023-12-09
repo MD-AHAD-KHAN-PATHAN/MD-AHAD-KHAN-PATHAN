@@ -49,4 +49,25 @@
 
 Discover a groundbreaking real estate experience through my MERN stack project. This online platform empowers users to seamlessly add or buy properties, fostering a dynamic connection between buyers and sellers.
 
+- Firebase Authentication: Users can sign up, log in, and enjoy personalized experiences through Firebase authentication, ensuring their data is secure.
+
+- MongoDB Database: This project utilizes MongoDB as a NoSQL database to store and manage data such as Property details, user reviews, payment information, user information, etc.
+
+- Express.js Server: For server-side functionality, Express.js is employed to create APIs for adding, updating, and deleting Property details, as well as handling user interactions.
+
+- Payment Gateway: Integrate Stripe API to facilitate secure payment transactions for property purchases.
+
+- User Roles: Implement roles such as property owner/agent, buyer, and admin with different access levels.
+
+- Favorites/Wishlist: Allow users to save their favorite properties and create a wishlist.
+
+- User Reviews: Allow users to leave reviews for properties they have interacted with.
+
+- Admin Dashboard: Create a dashboard for administrators to manage users, listings, and monitor site activity.
+
+- Property buy request Tracking: Enable users to track the status of their property, including whether they have been viewed or received responses.
+
+
+
+
 <br />
