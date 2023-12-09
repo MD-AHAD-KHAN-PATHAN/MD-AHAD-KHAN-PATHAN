@@ -66,6 +66,10 @@ Discover a groundbreaking real estate experience through my MERN stack project. 
 - Admin Dashboard: Create a dashboard for administrators to manage users, listings, and monitor site activity.
 
 ## Technology
-
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,firebase,tailwind,vite,netlify,vercel" />
+  </a>
+</p>
 
 <br />
