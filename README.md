@@ -47,4 +47,6 @@
 <h2>QuantumEstates</h2>
 <a href="https://gentle-hummingbird-b181cb.netlify.app/">Live Link</a>
 
+Discover a groundbreaking real estate experience through my MERN stack project. This online platform empowers users to seamlessly add or buy properties, fostering a dynamic connection between buyers and sellers.
+
 <br />
