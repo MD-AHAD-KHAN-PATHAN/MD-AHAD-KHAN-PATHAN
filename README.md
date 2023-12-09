@@ -8,10 +8,24 @@
 <P>Hi there! I'm Ahad Khan, a junior MERN stack developer. I am an enthusiastic and creative individual who is passionate about continuous learning. I am always looking to enhance my skills and knowledge to achieve greater success. I have an open mind towards new ideas and learning opportunities, and I believe that collaboration is key to success in teamwork. Throughout my experiences, I have learned that attention to detail is crucial in everything I work on.</p>
 
 
-<h3>Competitive Programming</h3>
+<h2>Competitive Programming</h2>
 
+<h3>HackerRank</h3>
+<a href="https://www.hackerrank.com/profile/md_ahad_khan">Profile Link</a>
+A popular online platform for coding challenges and contests.
+- Five Star Gold (5*) Problem Solver.
+- i have successfully solved over 150 problems.
+- I have demonstrated creativity and ingenuity in devising efficient and elegant solutions to complex problems, often
+leveraging advanced techniques and algorithms.
 
-
+<h3>Codeforces</h3>
+<a href="https://codeforces.com/profile/REDBLACK01">Profile Link</a>
+A popular online platform for competitive programming and contests.
+- I have successfully solved over 350 problems on Codeforces.
+- I have tackled problems across a range of domains, including algorithms, data structures, mathematics, string
+processing, and more.
+- I have Demonstrated creativity and ingenuity in developing efficient and elegant solutions to challenging problems,
+often using orthodox or unorthodox approaches
 <br/>
 
 ## :computer: Technologies that I know
