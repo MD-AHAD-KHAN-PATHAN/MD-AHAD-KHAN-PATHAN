@@ -42,5 +42,9 @@
 ## :trophy: GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=MD-AHAD-KHAN-PATHAN&theme=tokyonight"/>
 
+## :computer: My Projects
+
+<h2>QuantumEstates</h2>
+
 
 <br />
