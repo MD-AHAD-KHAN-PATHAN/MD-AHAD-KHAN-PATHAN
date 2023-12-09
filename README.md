@@ -12,6 +12,7 @@
 
 <h3>HackerRank</h3>
 <a href="https://www.hackerrank.com/profile/md_ahad_khan">Profile Link</a>
+
 A popular online platform for coding challenges and contests.
 - Five Star Gold (5*) Problem Solver.
 - i have successfully solved over 150 problems.
@@ -20,6 +21,7 @@ leveraging advanced techniques and algorithms.
 
 <h3>Codeforces</h3>
 <a href="https://codeforces.com/profile/REDBLACK01">Profile Link</a>
+
 A popular online platform for competitive programming and contests.
 - I have successfully solved over 350 problems on Codeforces.
 - I have tackled problems across a range of domains, including algorithms, data structures, mathematics, string
