@@ -27,7 +27,7 @@ A popular online platform for competitive programming and contests.
 - I have tackled problems across a range of domains, including algorithms, data structures, mathematics, string
 processing, and more.
 - I have Demonstrated creativity and ingenuity in developing efficient and elegant solutions to challenging problems,
-often using orthodox or unorthodox approaches
+often using orthodox or unorthodox approaches.
 <br/>
 
 ## :computer: Technologies that I know
