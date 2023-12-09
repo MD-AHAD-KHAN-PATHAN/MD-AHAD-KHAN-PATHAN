@@ -73,3 +73,31 @@ Discover a groundbreaking real estate experience through my MERN stack project. 
 </p>
 
 <br />
+
+<h2>JobZenith</h2>
+<a href="https://hilarious-kheer-c87618.netlify.app/">Live Link</a>
+
+Introducing a game-changing job-finding platform powered by MERN stack. Easily post job opportunities or apply for positions. Streamlined, efficient, and dynamic, connecting employers with talent for a modern job-seeking experience.
+
+- Firebase Authentication: Users can sign up, log in, and enjoy personalized experiences through Firebase authentication, ensuring their data is secure.
+
+- MongoDB Database: This project utilizes MongoDB as a NoSQL database to store and manage data such as job details, and user bidding information.
+
+- Express.js Server: For server-side functionality, Express.js is employed to create APIs for adding, updating, and deleting job details, as well as handling user interactions.
+
+- Adding Job Post: Registered users can add new job posts to the database, contributing to the catalog and keeping it up-to-date.
+
+- Job Data Management: The project enables users to add, update, and remove jobs posted in their cart, creating a seamless and user-friendly Buy experience.
+
+- Application Tracking: Enable users to track the status of their job applications, including whether they have been viewed or received responses.
+
+- Responsive Design: This project is not only feature-rich but also offers a responsive design, ensuring an optimal viewing experience on various devices, including desktops, tablets, and mobile phones.
+
+## Technology
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,firebase,tailwind,vite,netlify,vercel" />
+  </a>
+</p>
+
+<br />
