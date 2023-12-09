@@ -65,9 +65,7 @@ Discover a groundbreaking real estate experience through my MERN stack project. 
 
 - Admin Dashboard: Create a dashboard for administrators to manage users, listings, and monitor site activity.
 
-- Property buy request Tracking: Enable users to track the status of their property, including whether they have been viewed or received responses.
-
-
+## :technology: Technology
 
 
 <br />
