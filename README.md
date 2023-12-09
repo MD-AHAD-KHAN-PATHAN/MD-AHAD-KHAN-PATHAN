@@ -105,7 +105,7 @@ Introducing a game-changing job-finding platform powered by MERN stack. Easily p
 <h2>AutoVerse</h2>
 <a href="https://fantastic-cassata-eb2a45.netlify.app/">Live Link</a>
 
-Unleash the thrill of luxury car ownership on my MERN stack supercar selling platform. Sellers list elite rides, while users curate their dream collection, adding favorite supercars to their personalized cart.
+Dive into luxury on my MERN stack supercar selling platform. Sellers can add their supercars, users can dream collections by adding favorites to their personalized carts.
 
 - Firebase Authentication: Users can sign up, log in, and enjoy personalized experiences through Firebase authentication, ensuring their data is secure.
 
