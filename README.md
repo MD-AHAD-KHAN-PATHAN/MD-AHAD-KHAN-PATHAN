@@ -6,7 +6,12 @@
 
 <h1> MD. AHAD KHAN PATHAN </h1>
 <P>Hi there! I'm Ahad Khan, a junior MERN stack developer. I am an enthusiastic and creative individual who is passionate about continuous learning. I am always looking to enhance my skills and knowledge to achieve greater success. I have an open mind towards new ideas and learning opportunities, and I believe that collaboration is key to success in teamwork. Throughout my experiences, I have learned that attention to detail is crucial in everything I work on.</p>
-  
+
+
+<h3>Competitive Programming</h3>
+
+
+
 <br/>
 
 ## :computer: Technologies that I know
